@@ -1,7 +1,0 @@
-env
-.dockerignore
-Dockerfile
-Dockerfile.prod
-venv
-.pytest_cache
-.coverage
